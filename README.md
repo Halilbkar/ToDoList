@@ -22,7 +22,7 @@ An IOS Developer trying to improve herself.
   
 ## Used
 
-UIKit, TableView, CollectionView
+UIKit, TableView, CollectionView, CoreData
 
 ## 3rd Libary
 
